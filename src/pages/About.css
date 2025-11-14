@@ -1,0 +1,23 @@
+.about { padding: 36px 0; }
+
+.card {
+  max-width: 1000px;
+  margin: 0 auto;
+  background: white;
+  padding: 22px;
+  border-radius: 10px;
+  box-shadow: 0 14px 48px rgba(9,58,110,0.04);
+}
+
+.card h2 { color:#0b3f84; margin:0 0 8px 0; }
+.card .lead { color:#3f566e; margin-bottom:18px; }
+
+.two-col {
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+}
+
+.info-table { width:100%; border-collapse:collapse; }
+.info-table th { text-align:left; padding:6px 4px; color:#56708b; width:120px; font-weight:600; }
+.info-table td { padding:6px 4px; color:#40566f; }

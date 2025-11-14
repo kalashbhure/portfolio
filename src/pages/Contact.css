@@ -1,0 +1,20 @@
+.contact { padding:36px 0; }
+.card { max-width:1000px; margin:0 auto; background:#fff; padding:20px; border-radius:10px; box-shadow: 0 14px 48px rgba(9,58,110,0.04); }
+.contact-grid { display:grid; grid-template-columns: 1fr 320px; gap:18px; align-items:start; }
+.contact-form input, .contact-form textarea {
+  width:100%;
+  padding:10px 12px;
+  margin-bottom:10px;
+  border-radius:8px;
+  border:1px solid #e4eefc;
+  background: #fbfdff;
+  font-size:0.95rem;
+}
+
+.status { margin-top:8px; font-weight:600; }
+.status.success { color: #0f8d4a; }
+.status.error { color: #b00020; }
+
+.contact-info h3 { margin-top:0; color:#0b3f84; }
+.contact-info p { margin:8px 0; color:#40566f; }
+.small { font-size:0.85rem; color:#7a8ea8; margin-top:12px; }

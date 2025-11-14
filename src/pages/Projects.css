@@ -1,0 +1,6 @@
+.projects { padding: 36px 0; }
+.card { max-width:1000px; margin:0 auto; background:#fff; padding:20px; border-radius:10px; box-shadow: 0 14px 48px rgba(9,58,110,0.04); }
+.projects-list { margin-top:12px; display:flex; flex-direction:column; gap:12px; }
+.project-item { padding:14px; border-radius:10px; background: linear-gradient(180deg,#fbfdff,#f6fbff); border:1px solid rgba(11,87,190,0.04); }
+.project-item h3 { margin:0 0 6px 0; color:#0b447a; }
+.project-link { display:inline-block; margin-top:8px; color:#0b57c2; font-weight:600; text-decoration:none; }

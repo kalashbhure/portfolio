@@ -1,0 +1,4 @@
+.experience { padding:36px 0; }
+.card { max-width:1000px; margin:0 auto; background:#fff; padding:20px; border-radius:10px; box-shadow: 0 14px 48px rgba(9,58,110,0.04); }
+.exp-item { margin-top:12px; padding:12px; background: linear-gradient(180deg,#ffffff,#f7fbff); border-radius:8px; border:1px solid rgba(11,87,190,0.04); }
+.exp-item h3 { margin:0 0 6px 0; color:#0b447a; }
